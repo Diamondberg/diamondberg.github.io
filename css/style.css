@@ -7,3 +7,8 @@ body{
   grid-template-columns: 30%;
   grid-template-rows: 30%;
 }
+.items{
+  border: 1px solid blue;
+  margin: 10px;
+  background-color: #ccc;
+}
