@@ -1,0 +1,9 @@
+body{
+  height: auto;
+}
+.wrapper{
+  border: 1px solid red;
+  display: grid;
+  grid-template-columns: 30%;
+  grid-template-rows: 30%;
+}
